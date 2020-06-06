@@ -126,6 +126,7 @@ public class EssPouchPluginTest
 			new Item(ItemID.PURE_ESSENCE, 1),
 			new Item(ItemID.PURE_ESSENCE, 1),
 		});
+					//DAEYALT_ESSENCE, maybe a string for all essence?
 		// Response from small empty
 		runecraftPlugin.onItemContainerChanged(itemContainerChanged);
 
